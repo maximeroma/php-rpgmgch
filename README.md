@@ -26,7 +26,7 @@ return [
 ];
 ```
 
-### UserTable.php
+### userTable.php
 Créer un fichier userTable.php qui va récupérer la liste des clients et générer un tableau html affichant l'ensemble de leur informations
 ```
 $users = require('users.php');
